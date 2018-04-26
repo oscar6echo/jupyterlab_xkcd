@@ -10,12 +10,12 @@ Show a random xkcd.com comic in a JupyterLab panel
 ## Installation
 
 ```bash
-jupyter labextension install jupyterlab_xkcd_tutorial
+jupyter labextension install @oscar6echo/xkcd-extension
 ```
 
 ## Development
 
-For a development install (requires npm version 4 or later), do the following in the repository directory:
+For a dev install (requires npm version>=4 and <=9), do the following in the repo directory:
 
 ```bash
 npm install
