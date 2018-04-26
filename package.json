@@ -1,6 +1,6 @@
 {
   "name": "@oscar6echo/xkcd-extension",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Show a random xkcd.com comic in a JupyterLab panel",
   "keywords": [
     "jupyter",
