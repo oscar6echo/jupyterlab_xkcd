@@ -2,6 +2,7 @@
 
 Show a random xkcd.com comic in a JupyterLab panel
 
+![](img/Screenshot_JupyterLab_xkcd.png)
 
 ## Prerequisites
 
