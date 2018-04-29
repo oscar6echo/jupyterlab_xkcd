@@ -118,10 +118,10 @@ function activate(app: JupyterLab, palette: ICommandPalette, restorer: ILayoutRe
 
 
 /**
- * Initialization data for the jupyterlab_xkcd_tutorial extension.
+ * Initialization data for the jupyterlab_xkcd extension.
  */
 const extension: JupyterLabPlugin<void> = {
-    id: 'jupyterlab_xkcd_tutorial',
+    id: 'jupyterlab_xkcd',
     autoStart: true,
     requires: [ICommandPalette, ILayoutRestorer],
     activate: activate

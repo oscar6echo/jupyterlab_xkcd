@@ -7,9 +7,9 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "https://github.com/oscar6echo/jupyterlab_xkcd_tutorial",
+  "homepage": "https://github.com/oscar6echo/jupyterlab_xkcd",
   "bugs": {
-    "url": "https://github.com/oscar6echo/jupyterlab_xkcd_tutorial/issues"
+    "url": "https://github.com/oscar6echo/jupyterlab_xkcd/issues"
   },
   "license": "BSD-3-Clause",
   "author": "oscar6echo",
@@ -21,7 +21,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oscar6echo/jupyterlab_xkcd_tutorial.git"
+    "url": "https://github.com/oscar6echo/jupyterlab_xkcd.git"
   },
   "scripts": {
     "build": "tsc",
